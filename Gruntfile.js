@@ -52,9 +52,13 @@ module.exports = function (grunt) {
               'README.md'
             ]
           },
+          // {
+          //   dest: 'build/assets/reset.css',
+          //   src: 'node_modules/mb-reset/reset.css'
+          // },
           {
-            dest: 'build/writes/github-markdown.css',
-            src: 'node_modules/github-markdown-css/github-markdown.css'
+            dest: 'build/style.css',
+            src: 'src/style.css'
           }
         ]
       }
@@ -66,7 +70,15 @@ module.exports = function (grunt) {
           spawn: false
         },
         files: ['src/**/*.hbs', 'src/**/*.md'],
-        tasks: ['assemble']
+        tasks: 'assemble'
+      },
+      styles: {
+        options: {
+          livereload: true,
+          spawn: false
+        },
+        files: 'src/*.css',
+        tasks: 'copy'
       }
     },
     'gh-pages': {

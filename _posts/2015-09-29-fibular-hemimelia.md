@@ -1,6 +1,9 @@
 ---
 published: false
+layout: post
+categories: "maely-gold"
 ---
+
 
 ## Let’s see if this works
 

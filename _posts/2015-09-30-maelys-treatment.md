@@ -1,11 +1,11 @@
 ---
 published: true
 layout: post
-categories:
-- maely
+title: "Maely’s Treatment"
+categories: maely
 excerpt: We first met with an orthopedic surgeon about 25 weeks into my pregnancy. My OB had never seen a missing fib on ultrasound and couldn’t give us any information on our unborn baby. By the time we met with the orthopedics department at Lurie Children’s Hospital, I was already pretty versed in Fibular Hemimilia (thanks to Google, blogs, and a Facebook Support Group) and had even already met two little kids that also had it. I was certain it was what our babe had, but we wanted to hear it from a medical professional.
 ---
-![Maely Gold Born](http://mattborn.s3.amazonaws.com/mattmeg/blog/06-Img-6.jpg)
+![Maely Gold Born](http://mattborn.s3.amazonaws.com/mattmeg/blog/maelys-treatment.jpg)
 
 We first met with an orthopedic surgeon about 25 weeks into my pregnancy. My OB had never seen a missing fib on ultrasound and couldn’t give us any information on our unborn baby. By the time we met with the orthopedics department at Lurie Children’s Hospital, I was already pretty versed in Fibular Hemimilia (thanks to Google, blogs, and a Facebook Support Group) and had even already met two little kids that also had it. I was certain it was what our babe had, but we wanted to hear it from a medical professional.
 
@@ -20,4 +20,4 @@ We honestly feel so at peace with our treatment plan. We haven’t fully decided
 ---
 
 > God is with her; she will not fail.<br>
-Psalms 46:5
+**Psalms 46:5**

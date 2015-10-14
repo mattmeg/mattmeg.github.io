@@ -1,11 +1,11 @@
 ---
+published: true
 layout: post
 title: "From the Beginning"
-categories:
-- maely
+categories: maely
 excerpt: Long before Matt and I even started talking about adding to our family, I had fears. Fears that it might not happen for us because as far back as I can remember, all I’ve ever wanted was to be a mom. Instead, it happened fast for us. In early November 2014, we found out we were pregnant. After that moment I had very little to fear, especially after we passed the first trimester and my belly began to grow.
 ---
-![](http://mattborn.s3.amazonaws.com/mattmeg/blog/124.jpg)
+![Baby Bump](http://mattborn.s3.amazonaws.com/mattmeg/blog/from-the-beginning.jpg)
 
 Long before Matt and I even started talking about adding to our family, I had fears. Fears that it might not happen for us because since as far back as I can remember, all I’ve ever wanted was to be a mom. Instead, it happened fast for us. In early November 2014, we found out we were pregnant. After that moment I had very little to fear, especially after we passed the first trimester and my belly began to grow.
 
@@ -27,4 +27,4 @@ The most recent encouragement that has been spoken to me above all the others is
 Wonderful are your works; my soul knows it very well.<br>
 When I was being made in secret, intricately woven in the depths of the earth.<br>
 In your book were written, every one of them, the days that were formed for me, when as yet there was none of them.<br>
-Psalms 139:14-16
+**Psalms 139:14-16**

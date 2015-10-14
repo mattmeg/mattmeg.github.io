@@ -1,11 +1,11 @@
 ---
 published: true
 layout: post
-categories:
-- maely
+title: "Fibular Hemimelia"
+categories: maely
 excerpt: We have learned a lot about Fibular Hemimelia over the past 8 months, and I continue to learn new things every day from the Facebook support groups I’m a part of. FH is a very broad term and has quite the spectrum from minimal to severe.
 ---
-![Finding Nemo](http://mattborn.s3.amazonaws.com/mattmeg/finding-nemo-header.jpg)
+![Momma & Baby](http://mattborn.s3.amazonaws.com/mattmeg/blog/fibular-hemimelia.jpg)
 
 We have learned a lot about Fibular Hemimelia over the past 8 months, and I continue to learn new things every day from the Facebook support groups I’m a part of. FH is a very broad term and has quite the spectrum from minimal to severe.
 
@@ -18,4 +18,4 @@ In our eyes, FH is not a disability. Matt loves to say “the only disability in
 ---
 
 > Before I formed you in the womb I knew you, before you were born I set you apart.<br>
-Jeremiah 1:5
+**Jeremiah 1:5**
